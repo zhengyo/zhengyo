@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 # I'm a Chinese. 
 # 我是中国人。😏
 
-我编写的程序大多数都是英文，因为中国国外用的用户众多。
-Most of the programs I write are in English, because there are many users abroad in China.
+我大部分都用英文，因为英文目前是一个国际通用语言，在一小部分时间我才用中文。
+I mostly use English, because English is currently an international language, in a small part of the time I only use Chinese.
