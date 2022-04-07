@@ -1,5 +1,5 @@
 # Hi there 👋
-
+#
 <!--
 **zhengyo/zhengyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 # 我是中国人。😏
 
 我大部分都用英文，因为英文目前是一个国际通用语言，在一小部分时间我才用中文。
-I mostly use English, because English is currently an international language, in a small part of the time I only use Chinese.
+I mostly use English, because English is currently an international language, in a small part 
+of the time I only use Chinese.
