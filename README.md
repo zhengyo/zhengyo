@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 我大部分都用英文，因为英文目前是一个国际通用语言，在一小部分时间我才用中文。
 I mostly use English, because English is currently an international language, in a small part 
 of the time I only use Chinese.
+#
+#
+我现在只会用Python编写程序，以后还要学习更多语言。
+I can only write programs in Python now, and I will learn more languages in the future. 
